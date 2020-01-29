@@ -3,7 +3,7 @@
 과학기술정보통신부, IITP에서 지원하고 한양대학교에서 주관한 "프로젝트 주도형 빅데이터 전문가 양성과정"에서 진행한 푸드트럭 미니프로젝트입니다.
 <br>
 <br>
-This is miniproject about food truck in Seoul for the HYU bigdata expert course supported by MSIT and IITP of South Korea.
+This is a miniproject about the food truck in Seoul for the HYU bigdata expert course supported by MSIT and IITP of South Korea.
 <br>
 <br>
 
@@ -44,4 +44,4 @@ This is miniproject about food truck in Seoul for the HYU bigdata expert course 
 - R, Python을 이용한 데이터 전처리 <br>/ Data preprocessing using R, Python
 - Python의 Folium 패키지를 이용한 지도 데이터 분석 <br>/ Map data analysis using Folium package of Python
 - R을 이용한 상가 밀집도 분석 <br>/ Shop density analysis using R
-- PPT 자료 제작 <br>/ Making presentation material
+- PPT 자료 제작 <br>/ Making a presentation material
