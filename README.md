@@ -44,4 +44,4 @@ This is a miniproject about the food truck in Seoul for the HYU bigdata expert c
 - R, Python을 이용한 데이터 전처리 <br>/ Data preprocessing using R, Python
 - Python의 Folium 패키지를 이용한 지도 데이터 분석 <br>/ Map data analysis using Folium package of Python
 - R을 이용한 상가 밀집도 분석 <br>/ Shop density analysis using R
-- PPT 자료 제작 <br>/ Making presentation material
+- PPT 자료 제작 <br>/ Making a presentation material
